@@ -10,13 +10,7 @@ public class StudentApplication {
 		SpringApplication.run(StudentApplication.class, args);
 		
 		System.out.println("Student Application Started..");
-		
-		
-		
-		
 		System.out.println("Welcome to Student App..");
-		
-		
 		System.out.println("Welcome to Student App..");
 		
 		System.out.println("Welcome to Student App..");
