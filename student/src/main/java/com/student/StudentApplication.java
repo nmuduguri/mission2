@@ -14,7 +14,7 @@ public class StudentApplication {
 		
 		
 		
-		System.out.println("welcome to college");
+		System.out.println("Welcome to Student App..");
 	}
 
 }
