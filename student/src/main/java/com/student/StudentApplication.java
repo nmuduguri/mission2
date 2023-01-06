@@ -11,7 +11,10 @@ public class StudentApplication {
 		
 		System.out.println("Student Application Started..");
 		
-		System.out.println("Student Applications Started2..");
+		
+		
+		
+		System.out.println("welcome to college");
 	}
 
 }
