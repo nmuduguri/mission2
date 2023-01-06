@@ -10,6 +10,8 @@ public class StudentApplication {
 		SpringApplication.run(StudentApplication.class, args);
 		
 		System.out.println("Student Application Started..");
+		
+		System.out.println("Student Applications Started2..");
 	}
 
 }
